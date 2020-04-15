@@ -92,3 +92,15 @@ h1#time {
   display: inline-block;
   font-size: 36px;
 }
+
+.banner{
+  font-family: 'Comic Neue',
+  cursive;
+  text-align: center;
+  color: rgb(66, 192, 119);
+}
+
+#name{
+  margin: 100px;
+  padding: 50px;
+}
